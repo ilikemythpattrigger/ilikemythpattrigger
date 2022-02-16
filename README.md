@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aarav
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning JavaScript
+- 💬 My Discord is R_VAN#4921
